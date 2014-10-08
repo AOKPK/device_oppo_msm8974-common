@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     init.qcom-common.rc \
+    init.fk.sh \
     init.recovery.qcom.rc \
     ueventd.qcom.rc
 
